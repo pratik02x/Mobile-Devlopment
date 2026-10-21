@@ -1,0 +1,15 @@
+stack navigation
+bottom  tab
+drower navigation
+top tab navigation
+
+stack :in this screens are placed are one on top of another eg.stack of books
+//eg. if there are three pages home ,notification,notification msg if u open the last page that is notification msg then u will not close dirctly thr
+
+//activity
+//create one ex of each navigation
+
+
+
+
+
